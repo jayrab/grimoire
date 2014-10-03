@@ -1,30 +1,330 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Grimoire</title>
+    <description>D&amp;D 5e spell list, sorted by class and level.</description>
+    <link>http://ephe.github.io/grimoire/</link>
+    <atom:link href="http://ephe.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 03 Oct 2014 01:27:25 -0700</pubDate>
+    <lastBuildDate>Fri, 03 Oct 2014 01:27:25 -0700</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Wrathful Smite</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st-level evocation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 bonus action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;The next time you hit with a melee weapon attack during this spell’s duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be frightened of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/wrathful-smite</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/wrathful-smite</guid>
+        
+        <category>paladin</category>
+        
+        <category>level1</category>
+        
+        
+        <category>spells</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Witch Bolt</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st-level evocation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a twig from a tree that has been struck by lightning)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell’s range or if it has total cover from you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d12 for each slot level above 1st.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/witch-bolt</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/witch-bolt</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level1</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Vicious Mockery</title>
+        <description>&lt;p&gt;&lt;strong&gt;Enchantment cantrip&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.&lt;/p&gt;
+
+&lt;p&gt;This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/vicious-mockery</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/vicious-mockery</guid>
+        
+        <category>bard</category>
+        
+        <category>cantrip</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Unseen Servant</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a piece of string and a bit of wood)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 hour&lt;/p&gt;
+
+&lt;p&gt;This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can’t attack. If it drops to 0 hit points, the spell ends.&lt;/p&gt;
+
+&lt;p&gt;Once on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wind. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.&lt;/p&gt;
+
+&lt;p&gt;If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/unseen-servant</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/unseen-servant</guid>
+        
+        <category>bard</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level1</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>True Strike</title>
+        <description>&lt;p&gt;&lt;strong&gt;Divination cantrip&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 round&lt;/p&gt;
+
+&lt;p&gt;You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/true-strike</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/true-strike</guid>
+        
+        <category>bard</category>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>cantrip</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Thunderwave</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st-level evocation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self (15-foot cube)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/thunderwave</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/thunderwave</guid>
+        
+        <category>bard</category>
+        
+        <category>druid</category>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level1</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Thunderous Smite</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st-level evocation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 bonus action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/thunderous-smite</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/thunderous-smite</guid>
+        
+        <category>paladin</category>
+        
+        <category>level1</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Thorn Whip</title>
+        <description>&lt;p&gt;&lt;strong&gt;Transmutation cantrip&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (the stem of a plant with thorns)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.&lt;/p&gt;
+
+&lt;p&gt;This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/thorn-whip</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/thorn-whip</guid>
+        
+        <category>druid</category>
+        
+        <category>cantrip</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Thaumaturgy</title>
+        <description>&lt;p&gt;&lt;strong&gt;Transmutation cantrip&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Your voice booms up to three times as loud as normal for 1 minute.&lt;/li&gt;
+  &lt;li&gt;You cause flames to flicker, brighten, dim, or change color for 1 minute.&lt;/li&gt;
+  &lt;li&gt;You cause harmless tremors in the ground for 1 minute.&lt;/li&gt;
+  &lt;li&gt;You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.&lt;/li&gt;
+  &lt;li&gt;You instantaneously cause an unlocked door or window to fly open or slam shut.&lt;/li&gt;
+  &lt;li&gt;You alter the appearance of your eyes for 1 minute. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/thaumaturgy</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/thaumaturgy</guid>
+        
+        <category>cleric</category>
+        
+        <category>cantrip</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Tenser&#39;s Floating Disk</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st-level conjuration (ritual)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a drop of mercury)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 hour&lt;/p&gt;
+
+&lt;p&gt;This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.&lt;/p&gt;
+
+&lt;p&gt;The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. If can move across uneven terrain, up or down stairs, slopes and the like, but it can’t cross an elevation change of 10 feet or more. For example, the disk can’t move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.&lt;/p&gt;
+
+&lt;p&gt;If you move more than 100 feet away from the disk (typically because it can’t move around an obstacle to follow you), the spell ends.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://ephe.github.io/grimoire/spells/tensers-floating-disk</link>
+        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/tensers-floating-disk</guid>
+        
+        <category>wizard</category>
+        
+        <category>level1</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
   </channel>
 </rss>
