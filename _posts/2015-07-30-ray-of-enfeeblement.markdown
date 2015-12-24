@@ -2,7 +2,7 @@
 layout: post
 title: "Ray of Enfeeblement"
 date: 2015-07-30
-tags: [warlock, wizard, level2]
+tags: [warlock, wizard, level2, necromancy]
 ---
 
 **2nd-level necromancy**

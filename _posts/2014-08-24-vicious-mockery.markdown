@@ -2,7 +2,7 @@
 layout: post
 title:  "Vicious Mockery"
 date:   2014-08-24
-tags: [bard, cantrip]
+tags: [bard, cantrip, enchantment]
 ---
 
 **Enchantment cantrip**

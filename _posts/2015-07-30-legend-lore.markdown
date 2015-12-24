@@ -2,7 +2,7 @@
 layout: post
 title: "Legend Lore"
 date: 2015-07-30
-tags: [cleric, wizard, bard, level5]
+tags: [cleric, wizard, bard, level5, divination]
 ---
 
 **5th-level divination**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Alter Self"
 date:   2015-01-2
-tags: [sorcerer, wizard, level2]
+tags: [sorcerer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

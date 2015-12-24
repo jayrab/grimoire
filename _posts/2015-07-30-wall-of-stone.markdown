@@ -2,7 +2,7 @@
 layout: post
 title: "Wall of Stone"
 date: 2015-07-30
-tags: [druid, sorcerer, wizard, level5]
+tags: [druid, sorcerer, wizard, level5, evocation]
 ---
 
 **5th-level evocation**

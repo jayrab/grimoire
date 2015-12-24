@@ -2,7 +2,7 @@
 layout: post
 title: "Raise Dead"
 date: 2015-07-30
-tags: [cleric, paladin, bard, level5]
+tags: [cleric, paladin, bard, level5, necromancy]
 ---
 
 **5th-level necromancy**

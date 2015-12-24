@@ -2,7 +2,7 @@
 layout: post
 title: "Nystul's Magic Aura"
 date: 2015-07-30
-tags: [wizard, level2]
+tags: [wizard, level2, illusion]
 ---
 
 **2nd-level illusion**

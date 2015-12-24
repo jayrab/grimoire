@@ -2,7 +2,7 @@
 layout: post
 title:  "Mage Armor"
 date:   2014-08-24
-tags: [sorcerer, wizard, level1]
+tags: [sorcerer, wizard, level1, abjuration]
 ---
 
 **1st-level abjuration**

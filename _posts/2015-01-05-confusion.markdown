@@ -2,7 +2,7 @@
 layout: post
 title:  "Confusion"
 date:   2015-01-05
-tags: [bard, druid, sorcerer, wizard, level4]
+tags: [bard, druid, sorcerer, wizard, level4, enchantment]
 ---
 
 **4th-level enchantment**

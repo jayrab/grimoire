@@ -2,7 +2,7 @@
 layout: post
 title:  "Antimagic Field"
 date:   2015-01-09
-tags: [cleric, wizard, level8]
+tags: [cleric, wizard, level8, abjuration]
 ---
 
 **8th-level abjuration**

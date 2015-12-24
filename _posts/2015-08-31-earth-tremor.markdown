@@ -2,7 +2,7 @@
 layout: post
 title:  "Earth Tremor"
 date:   2015-08-31
-tags: [bard, druid, sorcerer, wizard, level1]
+tags: [bard, druid, sorcerer, wizard, level1, evocation]
 ---
 
 **1st-level evocation**

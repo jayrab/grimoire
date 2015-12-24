@@ -2,7 +2,7 @@
 layout: post
 title:  "Ensnaring Strike"
 date:   2014-08-24
-tags: [ranger, level1]
+tags: [ranger, level1, conjuration]
 ---
 
 **1st-level conjuration**

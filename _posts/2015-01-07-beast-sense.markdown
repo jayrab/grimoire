@@ -2,7 +2,7 @@
 layout: post
 title:  "Beast Sense"
 date:   2015-01-07
-tags: [druid, ranger, level2]
+tags: [druid, ranger, level2, divination]
 ---
 
 **2nd-level divination (ritual)**

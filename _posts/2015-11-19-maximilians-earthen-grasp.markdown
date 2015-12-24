@@ -2,7 +2,7 @@
 layout: post
 title:  "Maximilian's Earthen Grasp"
 date:   2015-11-19
-tags: [sorcerer, wizard, level2]
+tags: [sorcerer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

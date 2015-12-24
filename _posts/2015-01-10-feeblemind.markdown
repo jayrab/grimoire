@@ -2,7 +2,7 @@
 layout: post
 title: "Feeblemind"
 date: 2015-01-10
-tags: [bard, druid, warlock, wizard, level8]
+tags: [bard, druid, warlock, wizard, level8, enchantment]
 ---
 
 **8th-level enchantment**

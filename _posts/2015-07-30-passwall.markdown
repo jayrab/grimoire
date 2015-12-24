@@ -2,7 +2,7 @@
 layout: post
 title: "Passwall"
 date: 2015-07-30
-tags: [wizard, level5]
+tags: [wizard, level5, transmutation]
 ---
 
 **5th-level transmutation**

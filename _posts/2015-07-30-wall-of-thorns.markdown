@@ -2,7 +2,7 @@
 layout: post
 title: "Wall of Thorns"
 date: 2015-07-30
-tags: [druid, level6]
+tags: [druid, level6, conjuration]
 ---
 
 **6th-level conjuration**

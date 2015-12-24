@@ -2,7 +2,7 @@
 layout: post
 title: "Mass Cure Wounds"
 date: 2015-07-30
-tags: [bard, cleric, druid, level5]
+tags: [bard, cleric, druid, level5, conjuration]
 ---
 
 **5th-level conjuration**

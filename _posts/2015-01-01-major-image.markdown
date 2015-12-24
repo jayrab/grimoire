@@ -2,7 +2,7 @@
 layout: post
 title:  "Major Image"
 date:   2015-01-01
-tags: [bard, sorcerer, warlock, wizard, level3]
+tags: [bard, sorcerer, warlock, wizard, level3, illusion]
 ---
 
 **3rd-level illusion**

@@ -2,7 +2,7 @@
 layout: post
 title: "Hallucinatory Terrain"
 date: 2015-07-30
-tags: [bard, druid, warlock, wizard, level4]
+tags: [bard, druid, warlock, wizard, level4, illusion]
 ---
 
 **4th-level illusion**

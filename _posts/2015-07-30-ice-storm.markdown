@@ -2,7 +2,7 @@
 layout: post
 title: "Ice Storm"
 date: 2015-07-30
-tags: [druid, sorcerer, wizard, level4]
+tags: [druid, sorcerer, wizard, level4, evocation]
 ---
 
 **4th-level evocation**

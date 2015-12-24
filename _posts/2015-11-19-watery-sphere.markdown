@@ -2,7 +2,7 @@
 layout: post
 title:  "Watery Sphere"
 date:   2015-11-19
-tags: [druid, sorcerer, wizard, level4]
+tags: [druid, sorcerer, wizard, level4, conjuration]
 ---
 
 **4th-level conjuration**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Purify Food and Drink"
 date:   2014-08-24
-tags: [cleric, druid, paladin, level1]
+tags: [cleric, druid, paladin, level1, transmutation]
 ---
 
 **1st-level transmutation**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Spirit Guardians"
 date:   2015-01-02
-tags: [cleric, level3]
+tags: [cleric, level3, conjuration]
 ---
 
 **3rd-level conjuration**

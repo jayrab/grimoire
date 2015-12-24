@@ -2,7 +2,7 @@
 layout: post
 title: "Mordenkainen's Private Sanctum"
 date: 2015-07-30
-tags: [wizard, level4]
+tags: [wizard, level4, abjuration]
 ---
 
 **4th-level abjuration**

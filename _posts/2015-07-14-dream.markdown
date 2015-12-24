@@ -2,7 +2,7 @@
 layout: post
 title: "Dream"
 date: 2015-07-14
-tags: [bard, warlock, wizard, level5]
+tags: [bard, warlock, wizard, level5, illusion]
 ---
 
 **5th-level illusion**

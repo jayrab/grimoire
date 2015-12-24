@@ -2,7 +2,7 @@
 layout: post
 title: "Forcecage"
 date: 2015-01-11
-tags: [bard, warlock, wizard, level7]
+tags: [bard, warlock, wizard, level7, evocation]
 ---
 
 **7th-level evocation**

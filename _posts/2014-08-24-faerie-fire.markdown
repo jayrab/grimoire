@@ -2,7 +2,7 @@
 layout: post
 title:  "Faerie Fire"
 date:   2014-08-24
-tags: [bard, druid, level1]
+tags: [bard, druid, level1, evocation]
 ---
 
 **1st-level evocation**

@@ -2,7 +2,7 @@
 layout: post
 title: "Dominate Person"
 date: 2015-07-14
-tags: [bard, sorcerer, wizard, level5]
+tags: [bard, sorcerer, wizard, level5, enchantment]
 ---
 
 **5th-level enchantment**

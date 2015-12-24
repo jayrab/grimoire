@@ -2,7 +2,7 @@
 layout: post
 title:  "Dispel Magic"
 date:   2015-01-01
-tags: [bard, cleric, druid, paladin, sorcerer, warlock, wizard, level3]
+tags: [bard, cleric, druid, paladin, sorcerer, warlock, wizard, level3, abjuration]
 ---
 
 **3rd-level abjuration**

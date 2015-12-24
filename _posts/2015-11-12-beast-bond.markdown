@@ -2,7 +2,7 @@
 layout: post
 title:  "Beast Bond"
 date:   2015-11-12
-tags: [druid, ranger, level1]
+tags: [druid, ranger, level1, divination]
 ---
 
 **1st-level divination**

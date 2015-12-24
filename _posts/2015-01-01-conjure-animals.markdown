@@ -2,7 +2,7 @@
 layout: post
 title:  "Conjure Animals"
 date:   2015-01-01
-tags: [druid, ranger, level3]
+tags: [druid, ranger, level3, conjuration]
 ---
 
 **3rd-level conjuration**

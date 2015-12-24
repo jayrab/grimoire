@@ -2,7 +2,7 @@
 layout: post
 title: "Spider Climb"
 date: 2015-07-30
-tags: [sorcerer, warlock, wizard, level2]
+tags: [sorcerer, warlock, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

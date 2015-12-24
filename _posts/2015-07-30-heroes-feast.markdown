@@ -2,7 +2,7 @@
 layout: post
 title: "Heroes' Feast"
 date: 2015-07-30
-tags: [cleric, druid, level6]
+tags: [cleric, druid, level6, conjuration]
 ---
 
 **6th-level conjuration**

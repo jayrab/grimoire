@@ -2,7 +2,7 @@
 layout: post
 title:  "Warding Bond"
 date:   2014-12-31
-tags: [cleric, level2]
+tags: [cleric, level2, abjuration]
 ---
 
 **2nd-level abjuration**

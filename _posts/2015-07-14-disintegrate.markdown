@@ -2,7 +2,7 @@
 layout: post
 title: "Disintegrate"
 date: 2015-07-14
-tags: [sorcerer, wizard, level6]
+tags: [sorcerer, wizard, level6, transmutation]
 ---
 
 **6th-level transmutation**

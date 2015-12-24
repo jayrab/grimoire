@@ -2,7 +2,7 @@
 layout: post
 title:  "Whirlwind"
 date:   2015-11-19
-tags: [druid, wizard, level7]
+tags: [druid, wizard, level7, evocation]
 ---
 
 **7th-level evocation**

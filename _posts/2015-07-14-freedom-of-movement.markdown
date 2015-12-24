@@ -2,7 +2,7 @@
 layout: post
 title: "Freedom of Movement"
 date: 2015-07-14
-tags: [bard, cleric, druid, ranger, level4]
+tags: [bard, cleric, druid, ranger, level4, abjuration]
 ---
 
 **4th-level abjuration**

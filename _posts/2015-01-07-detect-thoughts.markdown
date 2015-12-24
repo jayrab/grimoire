@@ -2,7 +2,7 @@
 layout: post
 title:  "Detect Thoughts"
 date:   2015-01-07
-tags: [bard, sorcerer, wizard, level2]
+tags: [bard, sorcerer, wizard, level2, divination]
 ---
 
 **2nd-level divination**

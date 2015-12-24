@@ -2,7 +2,7 @@
 layout: post
 title:  "Clairvoyance"
 date:   2015-01-01
-tags: [bard, cleric, sorcerer, wizard, level3]
+tags: [bard, cleric, sorcerer, wizard, level3, divination]
 ---
 
 **3rd-level divination**

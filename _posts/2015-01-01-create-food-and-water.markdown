@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Food and Water"
 date:   2015-01-01
-tags: [cleric, paladin, level3]
+tags: [cleric, paladin, level3, conjuration]
 ---
 
 **3rd-level conjuration**

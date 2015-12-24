@@ -2,7 +2,7 @@
 layout: post
 title:  "Conjure Woodland Beings"
 date:   2015-01-05
-tags: [druid , ranger, level4]
+tags: [druid , ranger, level4, conjuration]
 ---
 
 **4th-level conjuration**

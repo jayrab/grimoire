@@ -2,7 +2,7 @@
 layout: post
 title: "Find the Path"
 date: 2015-07-14
-tags: [bard, cleric, druid, level6]
+tags: [bard, cleric, druid, level6, divination]
 ---
 
 **6th-level divination**

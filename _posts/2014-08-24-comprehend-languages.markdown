@@ -2,7 +2,7 @@
 layout: post
 title:  "Comprehend Languages"
 date:   2014-08-24
-tags: [bard, sorcerer, warlock, wizard, level1]
+tags: [bard, sorcerer, warlock, wizard, level1, divination]
 ---
 
 **1st-level divination (ritual)**

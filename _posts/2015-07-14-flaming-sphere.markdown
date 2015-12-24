@@ -2,7 +2,7 @@
 layout: post
 title: "Flaming Sphere"
 date: 2015-07-14
-tags: [druid, wizard, level2]
+tags: [druid, wizard, level2, conjuration]
 ---
 
 **2nd-level conjuration**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Phantom Steed"
 date:   2015-01-02
-tags: [wizard,level3]
+tags: [wizard,level3, illusion]
 ---
 
 **3rd-level illusion (ritual)**

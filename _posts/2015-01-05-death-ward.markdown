@@ -2,7 +2,7 @@
 layout: post
 title:  "Death Ward"
 date:   2015-01-05
-tags: [cleric, paladin, level4]
+tags: [cleric, paladin, level4, abjuration]
 ---
 
 **4th-level abjuration**

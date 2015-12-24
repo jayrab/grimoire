@@ -2,7 +2,7 @@
 layout: post
 title: "Teleportation Circle"
 date: 2015-07-30
-tags: [bard, sorcerer, wizard, level5]
+tags: [bard, sorcerer, wizard, level5, conjuration]
 ---
 
 **5th-level conjuration**

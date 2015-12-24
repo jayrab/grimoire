@@ -2,7 +2,7 @@
 layout: post
 title:  "Control Water"
 date:   2015-01-05
-tags: [cleric, druid, wizard, level4]
+tags: [cleric, druid, wizard, level4, transmutation]
 ---
 
 **4th-level transmutation**

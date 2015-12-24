@@ -2,7 +2,7 @@
 layout: post
 title: "Flame Strike"
 date: 2015-07-14
-tags: [cleric, level5]
+tags: [cleric, level5, evocation]
 ---
 
 **5th-level evocation**

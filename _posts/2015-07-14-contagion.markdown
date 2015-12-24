@@ -2,7 +2,7 @@
 layout: post
 title: "Contagion"
 date: 2015-07-14
-tags: [cleric, druid, level5]
+tags: [cleric, druid, level5, necromancy]
 ---
 
 **5th-level necromancy**

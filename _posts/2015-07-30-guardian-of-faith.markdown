@@ -2,7 +2,7 @@
 layout: post
 title: "Guardian of Faith"
 date: 2015-07-30
-tags: [cleric, level4]
+tags: [cleric, level4, conjuration]
 ---
 
 **4th-level conjuration**

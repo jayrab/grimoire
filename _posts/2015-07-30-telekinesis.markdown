@@ -2,7 +2,7 @@
 layout: post
 title: "Telekinesis"
 date: 2015-07-30
-tags: [sorcerer, wizard, level5]
+tags: [sorcerer, wizard, level5, transmutation]
 ---
 
 **5th-level transmutation**

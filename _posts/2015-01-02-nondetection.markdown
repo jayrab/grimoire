@@ -2,7 +2,7 @@
 layout: post
 title:  "Nondetection"
 date:   2015-01-02
-tags: [bard, cleric, ranger, level3]
+tags: [bard, cleric, ranger, level3, abjuration]
 ---
 
 **3rd-level abjuration**

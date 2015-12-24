@@ -2,7 +2,7 @@
 layout: post
 title:  "Maelstrom"
 date:   2015-11-19
-tags: [druid, level5]
+tags: [druid, level5, evocation]
 ---
 
 **5th-level evocation**

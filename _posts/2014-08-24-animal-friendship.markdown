@@ -2,7 +2,7 @@
 layout: post
 title:  "Animal Friendship"
 date:   2014-08-24
-tags: [bard, druid, ranger, level1]
+tags: [bard, druid, ranger, level1, enchantment]
 ---
 
 **1st-level enchantment**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Dimension Door"
 date:   2015-01-11
-tags: [bard, sorcerer, warlock, wizard, level4]
+tags: [bard, sorcerer, warlock, wizard, level4, conjuration]
 ---
 
 **4th-level conjuration**

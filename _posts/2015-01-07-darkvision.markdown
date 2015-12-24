@@ -2,7 +2,7 @@
 layout: post
 title:  "Darkvision"
 date:   2015-01-07
-tags: [druid, ranger, sorcerer, wizard, level2]
+tags: [druid, ranger, sorcerer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

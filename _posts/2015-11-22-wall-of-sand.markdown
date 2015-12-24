@@ -2,7 +2,7 @@
 layout: post
 title:  "Wall of Sand"
 date:   2015-11-22
-tags: [wizard, level3]
+tags: [wizard, level3, evocation]
 ---
 
 **3rd-level evocation**

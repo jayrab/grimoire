@@ -2,7 +2,7 @@
 layout: post
 title: "Commune"
 date: 2015-07-14
-tags: [cleric, level5]
+tags: [cleric, level5, divination]
 ---
 
 **5th-level divination (ritual)**

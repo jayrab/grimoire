@@ -2,7 +2,7 @@
 layout: post
 title:  "Melf's Minute Meteors"
 date:   2015-11-20
-tags: [sorcerer, wizard, level3]
+tags: [sorcerer, wizard, level3, evocation]
 ---
 
 **3rd-level evocation**

@@ -2,7 +2,7 @@
 layout: post
 title: "Flesh to Stone"
 date: 2015-07-14
-tags: [warlock, wizard, level6]
+tags: [warlock, wizard, level6, transmutation]
 ---
 
 **6th-level transmutation**

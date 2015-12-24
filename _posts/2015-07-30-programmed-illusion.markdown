@@ -2,7 +2,7 @@
 layout: post
 title: "Programmed Illusion"
 date: 2015-07-30
-tags: [bard, wizard, level6]
+tags: [bard, wizard, level6, illusion]
 ---
 
 **6th-level illusion**

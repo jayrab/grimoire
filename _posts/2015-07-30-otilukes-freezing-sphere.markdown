@@ -2,7 +2,7 @@
 layout: post
 title: "Otiluke's Freezing Sphere"
 date: 2015-07-30
-tags: [wizard, level6]
+tags: [wizard, level6, evocation]
 ---
 
 **6th-level evocation**

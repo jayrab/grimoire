@@ -2,7 +2,7 @@
 layout: post
 title: "Hold Monster"
 date: 2015-07-30
-tags: [bard, sorcerer, warlock, wizard, level5]
+tags: [bard, sorcerer, warlock, wizard, level5, enchantment]
 ---
 
 **5th-level enchantment**

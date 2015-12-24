@@ -2,7 +2,7 @@
 layout: post
 title:  "Immolation"
 date:   2015-11-20
-tags: [sorcerer, wizard, level5]
+tags: [sorcerer, wizard, level5, evocation]
 ---
 
 **5th-level evocation**

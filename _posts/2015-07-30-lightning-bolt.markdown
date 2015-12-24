@@ -2,7 +2,7 @@
 layout: post
 title: "Lightning Bolt"
 date: 2015-07-30
-tags: [sorcerer, wizard, level3]
+tags: [sorcerer, wizard, level3, evocation]
 ---
 
 **3rd-level evocation**

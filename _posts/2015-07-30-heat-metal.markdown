@@ -2,7 +2,7 @@
 layout: post
 title: "Heat Metal"
 date: 2015-07-30
-tags: [druid, bard, level2]
+tags: [druid, bard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

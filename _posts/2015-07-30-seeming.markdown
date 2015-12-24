@@ -2,7 +2,7 @@
 layout: post
 title: "Seeming"
 date: 2015-07-30
-tags: [bard, sorcerer, wizard, level5]
+tags: [bard, sorcerer, wizard, level5, illusion]
 ---
 
 **5th-level illusion**

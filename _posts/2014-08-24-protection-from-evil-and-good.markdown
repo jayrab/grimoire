@@ -2,7 +2,7 @@
 layout: post
 title:  "Protection from Evil and Good"
 date:   2014-08-24
-tags: [cleric, paladin, warlock, wizard, level1]
+tags: [cleric, paladin, warlock, wizard, level1, abjuration]
 ---
 
 **1st-level abjuration**

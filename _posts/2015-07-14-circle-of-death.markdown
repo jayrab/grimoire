@@ -2,7 +2,7 @@
 layout: post
 title: "Circle of Death"
 date: 2015-07-14
-tags: [sorcerer, warlock, wizard, level6]
+tags: [sorcerer, warlock, wizard, level6, necromancy]
 ---
 
 **6th-level necromancy**

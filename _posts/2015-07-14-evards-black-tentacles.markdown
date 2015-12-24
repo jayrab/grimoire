@@ -2,7 +2,7 @@
 layout: post
 title:  "Evard's Black Tentacles"
 date:   2015-07-14
-tags: [wizard, level4]
+tags: [wizard, level4, conjuration]
 ---
 
 **4th-level conjuration**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Goodberry"
 date:   2014-08-24
-tags: [druid, ranger, level1]
+tags: [druid, ranger, level1, transmutation]
 ---
 
 **1st-level transmutation**

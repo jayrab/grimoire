@@ -2,7 +2,7 @@
 layout: post
 title: "Flame Blade"
 date: 2015-07-14
-tags: [druid, level2]
+tags: [druid, level2, evocation]
 ---
 
 **2nd-level evocation**

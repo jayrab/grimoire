@@ -2,7 +2,7 @@
 layout: post
 title: "Wall of Force"
 date: 2015-07-30
-tags: [wizard, level5]
+tags: [wizard, level5, evocation]
 ---
 
 **5th-level evocation**

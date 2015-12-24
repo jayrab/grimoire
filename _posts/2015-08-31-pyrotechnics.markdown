@@ -2,7 +2,7 @@
 layout: post
 title:  "Pyrotechnics"
 date:   2015-08-31
-tags: [bard, sorcerer, wizard, level2]
+tags: [bard, sorcerer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

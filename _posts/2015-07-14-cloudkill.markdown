@@ -2,7 +2,7 @@
 layout: post
 title: "Cloudkill"
 date: 2015-07-14
-tags: [sorcerer, wizard, level5]
+tags: [sorcerer, wizard, level5, conjuration]
 ---
 
 **5th-level conjuration**

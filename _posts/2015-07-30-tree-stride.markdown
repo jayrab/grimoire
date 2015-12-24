@@ -2,7 +2,7 @@
 layout: post
 title: "Tree Stride"
 date: 2015-07-30
-tags: [druid, ranger, level5]
+tags: [druid, ranger, level5, conjuration]
 ---
 
 **5th-level conjuration**

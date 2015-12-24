@@ -2,7 +2,7 @@
 layout: post
 title:  "Inflict Wounds"
 date:   2014-08-24
-tags: [cleric, level1]
+tags: [cleric, level1, necromancy]
 ---
 
 **1st-level necromancy**

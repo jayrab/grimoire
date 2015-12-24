@@ -2,7 +2,7 @@
 layout: post
 title:  "Calm Emotions"
 date:   2014-12-31
-tags: [bard, cleric, level2]
+tags: [bard, cleric, level2, enchantment]
 ---
 
 **2nd-level enchantment**

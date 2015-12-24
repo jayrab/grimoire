@@ -2,7 +2,7 @@
 layout: post
 title:  "Healing Word"
 date:   2014-08-24
-tags: [bard, cleric, druid, level1]
+tags: [bard, cleric, druid, level1, evocation]
 ---
 
 **1st-level evocation**

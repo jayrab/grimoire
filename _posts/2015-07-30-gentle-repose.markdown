@@ -2,7 +2,7 @@
 layout: post
 title: "Gentle Repose"
 date: 2015-07-30
-tags: [cleric, wizard, level2]
+tags: [cleric, wizard, level2, necromancy]
 ---
 
 **2nd-level necromancy (ritual)**

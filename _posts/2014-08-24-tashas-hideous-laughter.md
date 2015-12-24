@@ -2,7 +2,7 @@
 layout: post
 title:  "Tasha's Hideous Laughter"
 date:   2014-08-24
-tags: [bard, wizard, level1]
+tags: [bard, wizard, level1, enchantment]
 ---
 
 **1st-level enchantment**

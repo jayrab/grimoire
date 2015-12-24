@@ -2,7 +2,7 @@
 layout: post
 title: "Find Steed"
 date: 2015-07-14
-tags: [paladin, level2]
+tags: [paladin, level2, conjuration]
 ---
 
 **2nd-level conjuration**

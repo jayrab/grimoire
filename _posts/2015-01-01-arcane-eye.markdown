@@ -2,7 +2,7 @@
 layout: post
 title:  "Arcane Eye"
 date:   2015-01-01
-tags: [wizard, level4]
+tags: [wizard, level4, divination]
 ---
 
 **4th-level divination**

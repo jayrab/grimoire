@@ -2,7 +2,7 @@
 layout: post
 title:  "Sleet Storm"
 date:   2015-01-02
-tags: [druid, sorcerer, wizard, level3]
+tags: [druid, sorcerer, wizard, level3, conjuration]
 ---
 
 **3rd-level conjuration**
