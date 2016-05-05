@@ -2,12 +2,8 @@
 layout: post
 title: "Destructive Wave"
 date: 2015-07-14
-<<<<<<< HEAD
 source: PHB.231
-tags: [paladin, level5]
-=======
 tags: [paladin, level5, evocation]
->>>>>>> school/feature/schools
 ---
 
 **5th-level evocation**

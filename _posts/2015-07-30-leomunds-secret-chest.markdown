@@ -2,12 +2,8 @@
 layout: post
 title: "Leomund's Secret Chest"
 date: 2015-07-30
-<<<<<<< HEAD
 source: PHB.254
-tags: [wizard, level4]
-=======
 tags: [wizard, level4, conjuration]
->>>>>>> school/feature/schools
 ---
 
 **4th-level conjuration**
