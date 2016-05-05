@@ -2,8 +2,12 @@
 layout: post
 title: "Wall of Force"
 date: 2015-07-30
+<<<<<<< HEAD
 source: PHB.285
 tags: [wizard, level5]
+=======
+tags: [wizard, level5, evocation]
+>>>>>>> school/feature/schools
 ---
 
 **5th-level evocation**

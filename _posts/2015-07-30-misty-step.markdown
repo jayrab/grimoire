@@ -2,8 +2,12 @@
 layout: post
 title: "Misty Step"
 date: 2015-07-30
+<<<<<<< HEAD
 source: PHB.260
 tags: [sorcerer, warlock, wizard, level2]
+=======
+tags: [sorcerer, warlock, wizard, level2, conjuration]
+>>>>>>> school/feature/schools
 ---
 
 **2nd-level conjuration**

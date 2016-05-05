@@ -2,8 +2,12 @@
 layout: post
 title: "Insect Plague"
 date: 2015-07-30
+<<<<<<< HEAD
 source: PHB.254
 tags: [cleric, druid, sorcerer, level5]
+=======
+tags: [cleric, druid, sorcerer, level5, conjuration]
+>>>>>>> school/feature/schools
 ---
 
 **5th-level conjuration**

@@ -2,8 +2,12 @@
 layout: post
 title: "Modify Memory"
 date: 2015-07-30
+<<<<<<< HEAD
 source: PHB.261
 tags: [bard, wizard, level5]
+=======
+tags: [bard, wizard, level5, enchantment]
+>>>>>>> school/feature/schools
 ---
 
 **5th-level enchantment**

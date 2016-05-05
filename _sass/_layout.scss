@@ -218,6 +218,20 @@ dl.tag-list {
     }
 }
 
+dl.schools-list {
+    @extend .tag-list;
+    dd {
+
+        a {
+            color: $grey-color-dark;
+            border-radius: 4px;
+        }
+        a.selected {
+            color: $brand-color;
+        }
+    }
+}
+
 .post-list-head{
     font-size: 22px;
     color: $grey-color-dark;

@@ -2,8 +2,12 @@
 layout: post
 title: "Ice Storm"
 date: 2015-07-30
+<<<<<<< HEAD
 source: PHB.252
 tags: [druid, sorcerer, wizard, level4]
+=======
+tags: [druid, sorcerer, wizard, level4, evocation]
+>>>>>>> school/feature/schools
 ---
 
 **4th-level evocation**

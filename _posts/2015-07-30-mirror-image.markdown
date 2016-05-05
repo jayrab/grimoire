@@ -2,8 +2,12 @@
 layout: post
 title: "Mirror Image"
 date: 2015-07-30
+<<<<<<< HEAD
 source: PHB.260
 tags: [sorcerer, warlock, wizard, level2]
+=======
+tags: [sorcerer, warlock, wizard, level2, illusion]
+>>>>>>> school/feature/schools
 ---
 
 **2nd-level illusion**

@@ -2,8 +2,12 @@
 layout: post
 title: "Levitate"
 date: 2015-07-30
+<<<<<<< HEAD
 source: PHB.255
 tags: [sorcerer, wizard, level2]
+=======
+tags: [sorcerer, wizard, level2, transmutation]
+>>>>>>> school/feature/schools
 ---
 
 **2nd-level transmutation**

@@ -3,7 +3,7 @@ layout: post
 title: "Antilife Shell"
 date: 2015-07-14
 source: PHB.213
-tags: [druid, level6]
+tags: [druid, level6, abjuration]
 ---
 
 **5th-level abjuration**
