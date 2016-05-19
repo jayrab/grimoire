@@ -2,12 +2,8 @@
 layout: post
 title: "Locate Creature"
 date: 2015-07-30
-<<<<<<< HEAD
 source: PHB.256
-tags: [bard, cleric, druid, paladin, ranger, wizard, level4]
-=======
 tags: [bard, cleric, druid, paladin, ranger, wizard, level4, divination]
->>>>>>> school/feature/schools
 ---
 
 **4th-level divination**

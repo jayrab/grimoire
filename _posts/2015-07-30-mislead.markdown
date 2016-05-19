@@ -2,12 +2,8 @@
 layout: post
 title: "Mislead"
 date: 2015-07-30
-<<<<<<< HEAD
 source: PHB.260
-tags: [bard, wizard, level5]
-=======
 tags: [bard, wizard, level5, illusion]
->>>>>>> school/feature/schools
 ---
 
 **5th-level illusion**

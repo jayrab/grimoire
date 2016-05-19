@@ -2,12 +2,8 @@
 layout: post
 title: "Melf's Acid Arrow"
 date: 2015-07-30
-<<<<<<< HEAD
 source: PHB.259
-tags: [wizard, level2]
-=======
 tags: [wizard, level2, evocation]
->>>>>>> school/feature/schools
 ---
 
 **2nd-level evocation**
