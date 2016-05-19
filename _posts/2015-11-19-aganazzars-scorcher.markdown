@@ -12,7 +12,7 @@ tags: [sorcerer, wizard, level2]
 
 **Range**: 30 feet
 
-**Components**: V, S, M (a red dragon’s scale)
+**Components**: V, S, M (a red dragon's scale)
 
 **Duration**: Instantaneous
 
