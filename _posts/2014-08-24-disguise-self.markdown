@@ -3,7 +3,7 @@ layout: post
 title:  "Disguise Self"
 date:   2014-08-24
 source: PHB.233
-tags: [bard, cleric (trickery), sorcerer, wizard, level1, illusion]
+tags: [bard, cleric, sorcerer, wizard, level1, illusion]
 ---
 
 **1st-level illusion**
