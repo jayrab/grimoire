@@ -13,6 +13,17 @@ layout: default
     </dd>
     {% endfor %}
   </dl>
+  <dl class="schools-list">
+    <dt>Spell schools:</dt>
+      <dd>
+        <a class="spell-school selected" name="all">All</a>
+      </dd> |
+    {% for spellSchool in site.data.schools %}
+      <dd>
+        <a class="spell-school" name="{{ spellSchool.tag }}">{{ spellSchool.name }}</a>
+      </dd>
+    {% endfor %}
+  </dl>
   {% for level in site.data.levels %}
     <a id="{{level.tag}}"></a>
     <h2 class="post-list-head jetsHide">{{level.title}}</h2>
@@ -20,7 +31,7 @@ layout: default
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
         <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="post-link" tags="{{ post.tags | join " " }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
       {% endfor %}
     </ul>

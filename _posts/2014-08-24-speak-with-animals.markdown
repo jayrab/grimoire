@@ -3,7 +3,7 @@ layout: post
 title:  "Speak with Animals"
 date:   2014-08-24
 source: PHB.277
-tags: [bard, druid, ranger, level1]
+tags: [bard, druid, ranger, level1, divination]
 ---
 
 **1st-level divination (ritual)**

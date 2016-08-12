@@ -3,7 +3,7 @@ layout: post
 title: "Polymorph"
 date: 2015-07-30
 source: PHB.266
-tags: [bard, druid, sorcerer, wizard, level4]
+tags: [bard, druid, sorcerer, wizard, level4, transmutation]
 ---
 
 **4th-level transmutation**
