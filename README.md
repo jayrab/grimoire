@@ -5,6 +5,7 @@ Grimoire is a mobile-friendly 5e spellbook that organizes spell lists by class a
 See the latest compiled build here: [http://ephe.github.io/grimoire/](http://ephe.github.io/grimoire/)
 
 ## Changelog
+* 8/16/16: New build with most of the bugfixes that have filtered in, and spell school tags. Cheers all!
 * 3/2/16: Pushed a new build with the most recent batch of bugfixes.
 * 2/22/16: Oops, have been merging typo fixes periodically. Merging in some more!
 * 12/17/15: Merged in more typo fixes, and spells from Sword Coast Adventurer's Guide.
