@@ -2,7 +2,8 @@
 layout: post
 title:  "Bane"
 date:   2014-08-24
-tags: [bard, cleric, level1]
+source: PHB.216
+tags: [bard, cleric, level1, enchantment]
 ---
 
 **1st-level enchantment**

@@ -2,7 +2,8 @@
 layout: post
 title:  "Color Spray"
 date:   2014-08-24
-tags: [sorcerer, wizard, level1]
+source: PHB.222
+tags: [sorcerer, wizard, level1, illusion]
 ---
 
 **1st-level illusion**

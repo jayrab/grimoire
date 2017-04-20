@@ -2,7 +2,8 @@
 layout: post
 title:  "Bless"
 date:   2014-08-24
-tags: [cleric, paladin, level1]
+source: PHB.219
+tags: [cleric, paladin, level1, enchantment]
 ---
 
 **1st-level enchantment**

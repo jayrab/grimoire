@@ -2,7 +2,8 @@
 layout: post
 title:  "Produce Flame"
 date:   2014-08-24
-tags: [druid, cantrip]
+source: PHB.269
+tags: [druid, cantrip, conjuration]
 ---
 
 **Conjuration cantrip**

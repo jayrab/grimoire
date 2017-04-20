@@ -2,7 +2,8 @@
 layout: post
 title:  "Ray of Sickness"
 date:   2014-08-24
-tags: [sorcerer, wizard, level1]
+source: PHB.271
+tags: [sorcerer, wizard, level1, necromancy]
 ---
 
 **1st-level necromancy**

@@ -2,10 +2,11 @@
 layout: post
 title:  "Illusory Script"
 date:   2014-08-24
-tags: [bard, warlock, wizard, level1]
+source: PHB.252
+tags: [bard, warlock, wizard, level1, illusion]
 ---
 
-**1st-level illusion (Ritual)**
+**1st-level illusion (ritual)**
 
 **Casting Time**: 1 minute
 

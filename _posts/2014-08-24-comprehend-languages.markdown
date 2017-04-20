@@ -2,10 +2,11 @@
 layout: post
 title:  "Comprehend Languages"
 date:   2014-08-24
-tags: [bard, sorcerer, warlock, wizard, level1]
+source: PHB.224
+tags: [bard, sorcerer, warlock, wizard, level1, divination]
 ---
 
-**1st-level divination (Ritual)**
+**1st-level divination (ritual)**
 
 **Casting Time**: 1 action
 
@@ -17,4 +18,4 @@ tags: [bard, sorcerer, warlock, wizard, level1]
 
 For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. 
 
-This spell doesn’t decode secret messages in a text or a glyph, such as an arcane sigil, that isn’t part of a written language.
+This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.

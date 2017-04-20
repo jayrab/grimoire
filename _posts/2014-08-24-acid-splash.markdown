@@ -2,7 +2,8 @@
 layout: post
 title:  "Acid Splash"
 date:   2014-08-24
-tags: [sorcerer, wizard, cantrip]
+source: PHB.211
+tags: [sorcerer, wizard, cantrip, conjuration]
 ---
 
 **Conjuration cantrip**

@@ -2,7 +2,8 @@
 layout: post
 title:  "Shillelagh"
 date:   2014-08-24
-tags: [druid, cantrip]
+source: PHB.275
+tags: [druid, cantrip, transmutation]
 ---
 
 **Transmutation cantrip**

@@ -2,7 +2,8 @@
 layout: post
 title:  "Hunter's Mark"
 date:   2014-08-24
-tags: [ranger, level1]
+source: PHB.251
+tags: [ranger, level1, divination]
 ---
 
 **1st-level divination**

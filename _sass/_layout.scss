@@ -182,6 +182,18 @@
 /**
  * Page content
  */
+
+ #jetsSearch {
+     padding:3px;
+     font-size: 16px;
+     line-height: $base-line-height;
+     width: 33%;
+     max-width: 400px;
+     border: 1px solid $brand-color-dark;
+     border-radius: 4px;
+     margin-left: 8px;
+ }
+
 .page-content {
     padding: $spacing-unit-line 0;
 }
@@ -203,6 +215,20 @@ dl.tag-list {
     dd {
         display: inline;
         padding-right: 20px;
+    }
+}
+
+dl.schools-list {
+    @extend .tag-list;
+    dd {
+
+        a {
+            color: $grey-color-dark;
+            border-radius: 4px;
+        }
+        a.selected {
+            color: $brand-color;
+        }
     }
 }
 
@@ -245,6 +271,15 @@ dl.tag-list {
         }
     }
 }
+
+@include media-query($on-palm) {
+    #jetsSearch {
+        width: 100%;
+        max-width: 100%;
+        margin-left: 0;
+    }
+}
+
 
 /**
  * Posts
@@ -293,4 +328,32 @@ dl.tag-list {
 
 .rss-subscribe {
     text-align: right;
+}
+
+/**
+ * Tables
+ */
+
+table {
+    box-sizing: border-box;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    border: 1px solid #771900;
+}
+
+th {
+    border: 0;
+    padding: 10px 15px;
+    font-weight: normal;
+    color: #fff;
+    background-color: #771900;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    padding: 7px 15px;
 }

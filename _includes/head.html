@@ -8,11 +8,11 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <script src="//use.typekit.net/nra6zxt.js"></script>
+    <script src="http://use.typekit.net/nra6zxt.js"></script>
+    <script src="{{ "/js/jets.min.js" | prepend: site.baseurl }}"></script>
     <script>try{Typekit.load();}catch(e){}</script>
     <script type="text/javascript">
     	function menuClick() {
-    		// console.log("clicked");
     		if ( document.getElementById("menu").className.match(/(?:^|\s)show(?!\S)/) ) {
     			document.getElementById("menu").className = document.getElementById("menu").className.replace ( /(?:^|\s)show(?!\S)/g , '' )
     		}
@@ -21,8 +21,54 @@
     		}
   		}
 
+        function schoolClick(e) {
+            var schools = Array.prototype.slice.call(document.querySelectorAll('.spell-school:not([name="all"])')),
+                selected = e.target,
+                tags = [];
+
+            if (selected.nodeName !== 'A') return;
+            if (selected.name == 'all') {
+                selected.classList.add('selected');
+                schools.forEach(function(school) {
+                    school.classList.remove('selected');
+                });
+            }
+            else {
+                document.querySelector('.spell-school[name="all"]').classList.remove('selected');
+                selected.classList.toggle('selected');
+                tags = Array.prototype.slice.call(document.querySelectorAll('.spell-school.selected')).map(function(el) { return el.name; });
+            }
+
+            filterSpells(tags);
+        }
+
+        /**
+         * Hide/show spells based on presence of at least one of the given tags.
+         */
+        function filterSpells(tags) {
+            var spells = document.querySelectorAll('.post-list li'),
+                selector,
+                unselected
+
+            // Start by making previously hidden spells visible again
+            // (this does not conflict with jets search filtering)
+            Array.prototype.slice.call(spells).forEach(function(spell) {
+                spell.style.display = '';
+            });
+
+            if (tags.length == 0) return;
+
+            // Hide all spells where all of the given tags are not present
+            selector = tags.map(function(tag) { return ':not([tags~="' + tag + '"])'; });
+            unselected = document.querySelectorAll('.post-list .post-link' + selector.join(''));
+            Array.prototype.slice.call(unselected).forEach(function(spell) {
+                spell.parentNode.style.display = 'none';
+            });
+        }
+
   		window.onload = function(){
         document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
-	    }	
+        document.querySelector(".schools-list").addEventListener( 'click', schoolClick );
+	    }
     </script>
 </head>

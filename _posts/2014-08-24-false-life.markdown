@@ -2,7 +2,8 @@
 layout: post
 title:  "False Life"
 date:   2014-08-24
-tags: [sorcerer, wizard, level1]
+source: PHB.239
+tags: [sorcerer, wizard, level1, necromancy]
 ---
 
 **1st-level necromancy**

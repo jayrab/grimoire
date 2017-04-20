@@ -2,7 +2,8 @@
 layout: post
 title:  "Faerie Fire"
 date:   2014-08-24
-tags: [bard, druid, level1]
+source: PHB.239
+tags: [bard, druid, level1, evocation]
 ---
 
 **1st-level evocation**

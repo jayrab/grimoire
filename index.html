@@ -2,8 +2,10 @@
 layout: default
 ---
 
+
 <div class="home">
   <h1 class="page-heading">All Spells</h1>
+  <p id="spellSearch">Search by name: <input type="search" id="jetsSearch"></p>
    <dl class="tag-list">
     <dt>Spell tier:</dt>
     {% for level in site.data.levels %}
@@ -12,18 +14,29 @@ layout: default
     </dd>
     {% endfor %}
   </dl>
+  <dl class="schools-list">
+    <dt>Spell schools:</dt>
+      <dd>
+        <a class="spell-school selected" name="all">All</a>
+      </dd> |
+    {% for spellSchool in site.data.schools %}
+      <dd>
+        <a class="spell-school" name="{{ spellSchool.tag }}">{{ spellSchool.name }}</a>
+      </dd>
+    {% endfor %}
+  </dl>
   {% for level in site.data.levels %}
     <a id="{{level.tag}}"></a>
-    <h2 class="post-list-head">{{level.title}}</h2>
-    <ul class="post-list">
+    <h2 class="post-list-head jetsHide">{{level.title}}</h2>
+    <ul class="post-list jetsContent">
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
         <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="post-link" tags="{{ post.tags | join " " }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
       {% endfor %}
     </ul>
-    <a class="post-meta" href="#top">Back to top &#8593;</a>
+    <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
   {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

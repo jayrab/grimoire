@@ -2,10 +2,11 @@
 layout: post
 title:  "Speak with Animals"
 date:   2014-08-24
-tags: [bard, druid, ranger, level1]
+source: PHB.277
+tags: [bard, druid, ranger, level1, divination]
 ---
 
-**1st-level divination**
+**1st-level divination (ritual)**
 
 **Casting Time**: 1 action
 

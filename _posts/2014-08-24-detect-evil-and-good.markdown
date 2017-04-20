@@ -2,7 +2,8 @@
 layout: post
 title:  "Detect Evil and Good"
 date:   2014-08-24
-tags: [cleric, paladin, level1]
+source: PHB.231
+tags: [cleric, paladin, level1, divination]
 ---
 
 **1st-level divination**
